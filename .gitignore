@@ -1,15 +1,21 @@
-# Folder hasil preprocessing dan model
-data/processed/
-models/
-
-# File model dan log
-*.pkl
-*.log
-
-# Jupyter notebook checkpoints
-*.ipynb_checkpoints
-
-# Python cache
+# Ignore Python cache & virtual envs
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+.env
+.venv
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data hasil sementara
+data/processed/*
+
+# Ignore model hasil training
+models/*.pkl
+models/*.joblib
+
+# Ignore system files
+.DS_Store
+Thumbs.db
