@@ -15,7 +15,7 @@ files = {
     "Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv": "1CN-VKqTyxjkGjIw0a8HmiE5F1sqFcwOH",
     "Friday-WorkingHours-Morning.pcap_ISCX.csv": "1d0D2Z3ykkCWLvqlN4hVEdsqCMVVhwSpF",
     "Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv": "1fSgMOFVy9zdOfJhC_Abv6LCdbrUYI9R6",
-    "Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv": "1-0w9Vw60QEFlUjVIYecG8JYxnF7WB2Ga",
+    "Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv": "1-0w9Vw60QEFlUjVIYecG8JYxnF7WB2Ga",
     # tambahkan file lain di sini
 }
 
