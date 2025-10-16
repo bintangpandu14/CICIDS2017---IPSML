@@ -1,0 +1,2 @@
+# Gunakan Git LFS untuk file dataset besar
+*.csv filter=lfs diff=lfs merge=lfs -text
