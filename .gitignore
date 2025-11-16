@@ -9,8 +9,7 @@ __pycache__/
 # Ignore notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore data hasil sementara
-*.csv
+# dont Ignore data 
 !data/raw/*.csv
 !data/processed/*.csv
 
