@@ -10,7 +10,9 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore data hasil sementara
-data/processed/*
+*.csv
+!data/raw/*.csv
+!data/processed/*.csv
 
 # Ignore model hasil training
 models/*.pkl
