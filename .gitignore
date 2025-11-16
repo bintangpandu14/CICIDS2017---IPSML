@@ -5,32 +5,31 @@ __pycache__/
 *.pyd
 .env
 .venv
+venv/
+venv310/
 
 # Ignore notebook checkpoints
 .ipynb_checkpoints/
-
-# dont Ignore data 
-!data/raw/*.csv
-!data/processed/*.csv
-
-# Ignore model hasil training
-models/*.pkl
-models/*.joblib
 
 # Ignore system files
 .DS_Store
 Thumbs.db
 
-venv/
-venv310/
-__pycache__/
+# Ignore model hasil training
+models/*.pkl
+models/*.joblib
+
+# Ignore file sementara / besar
 *.dll
 *.so
-*.pyd
 *.parquet
-*.csv
 *.zip
 *.h5
 *.pkl
 *.log
-*.ipynb_checkpoints/
+
+# Jangan ignore CSV di folder data
+!data/raw/
+!data/raw/*.csv
+!data/processed/
+!data/processed/*.csv
