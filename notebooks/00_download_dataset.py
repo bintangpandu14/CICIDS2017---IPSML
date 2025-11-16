@@ -16,6 +16,7 @@ files = {
     "Friday-WorkingHours-Morning.pcap_ISCX.csv": "1d0D2Z3ykkCWLvqlN4hVEdsqCMVVhwSpF",
     "Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv": "1fSgMOFVy9zdOfJhC_Abv6LCdbrUYI9R6",
     "Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv": "1-0w9Vw60QEFlUjVIYecG8JYxnF7WB2Ga",
+    "wednesday.pcap":"1d2XWgkvD2RaKIDmMGLDbqi3Yfz_9N9qX",
     # tambahkan file lain di sini
 }
 
